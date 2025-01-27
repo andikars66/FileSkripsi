@@ -1,0 +1,637 @@
+portCode,portName,kodeKabkot,namaProv,Latitude,Longitude,Latitude_dms,Longitude_dms,,kode_hirarki,stat_ops
+BTA,Batutua  ,53.14,Nusa Tenggara Timur,-10.865601,122.98523,"122°59'7""N","122°59'7""E",,PL,1
+NOO,Ndao  ,53.14,Nusa Tenggara Timur,-10.815979,122.676636,"122°40'36""N","122°40'36""E",,PP,1
+BRO,Baa  ,53.14,Nusa Tenggara Timur,-10.723877,123.044006,"123°2'38""N","123°2'38""E",,PL,1
+RIA,Raijua  ,53.2,Nusa Tenggara Timur,-10.601379,121.617798,"121°37'4""N","121°37'4""E",,PL,1
+NPA,Papela  ,53.14,Nusa Tenggara Timur,-10.598694,123.379395,"123°22'46""N","123°22'46""E",,PL,1
+BBU,Biu  ,53.2,Nusa Tenggara Timur,-10.507874,121.997803,"121°59'52""N","121°59'52""E",,PL,1
+ISA,Seba  ,53.2,Nusa Tenggara Timur,-10.489685,121.838013,"121°50'17""N","121°50'17""E",,PP,1
+PUA,Pulau Salura ,53.11,Nusa Tenggara Timur,-10.3125,120.1817,"120°10'54""N","120°10'54""E",,PL,0
+BAG,Baing  ,53.11,Nusa Tenggara Timur,-10.239807,120.570618,"120°34'14""N","120°34'14""E",,PL,1
+TQP,Tenau/ Kupang   ,53.01,Nusa Tenggara Timur,-10.193665,123.527588,"123°31'39""N","123°31'39""E",,PU,1
+NUN,Nunbaun Sabu (Namosain) ,53.01,Nusa Tenggara Timur,-10.170288,123.564209,"123°33'51""N","123°33'51""E",,PL,1
+KNY,Kolbano ,53.02,Nusa Tenggara Timur,-10.025574,124.536194,"124°32'10""N","124°32'10""E",,PL,1
+WGP,Waingapu  ,53.11,Nusa Tenggara Timur,-9.638001,120.251038,"120°15'4""N","120°15'4""E",,PP,1
+NIU,Naikliu   ,53.01,Nusa Tenggara Timur,-9.49663,123.8083,"123°48'30""N","123°48'30""E",,PL,0
+WIO,Waikelo ,53.18,Nusa Tenggara Timur,-9.389771,119.218994,"119°13'8""N","119°13'8""E",,PR,1
+BTU,Binanatu  ,53.12,Nusa Tenggara Timur,-9.380981,119.39563,"119°23'44""N","119°23'44""E",,PL,1
+MMO,Mamboro  ,53.17,Nusa Tenggara Timur,-9.36313,119.6502,"119°39'1""N","119°39'1""E",,PL,0
+WII,Wini ,53.03,Nusa Tenggara Timur,-9.17749,124.492432,"124°29'33""N","124°29'33""E",,PP,1
+AAU,Atapupu   ,53.04,Nusa Tenggara Timur,-8.996765,124.861633,"124°51'42""N","124°51'42""E",,PP,1
+MMA,Maumbawa   ,53.09,Nusa Tenggara Timur,-8.900513,121.138428,"121°8'18""N","121°8'18""E",,PL,1
+BEN,Benete  ,52.07,Nusa Tenggara Barat,-8.895569,116.751587,"116°45'6""N","116°45'6""E",,PP,1
+MEL,Pulau Mules  ,53.1,Nusa Tenggara Timur,-8.891724,120.304731,"120°18'17""N","120°18'17""E",,PL,1
+PDE,Pulau Ende  ,53.08,Nusa Tenggara Timur,-8.87881,121.5149,"121°30'54""N","121°30'54""E",,PL,0
+IPI,Ippi   ,53.08,Nusa Tenggara Timur,-8.854981,121.663391,"121°39'48""N","121°39'48""E",,PP,1
+ENE,Ende   ,53.08,Nusa Tenggara Timur,-8.845398,121.642029,"121°38'31""N","121°38'31""E",,PP,1
+WIE,Waiwole  ,53.19,Nusa Tenggara Timur,-8.841492,120.792236,"120°47'32""N","120°47'32""E",,PL,1
+BOA,Benoa   ,51.71,Bali,-8.74408,115.210815,"115°12'39""N","115°12'39""E",,PU,1
+LMR,Lembar  ,52.01,Nusa Tenggara Barat,-8.730591,116.071838,"116°4'19""N","116°4'19""E",,PP,1
+WOA,Waworada   ,52.06,Nusa Tenggara Barat,-8.709949,118.819629,"118°49'11""N","118°49'11""E",,PR,1
+LHJ,Labuhan Haji ,52.03,Nusa Tenggara Barat,-8.699768,116.573242,"116°34'24""N","116°34'24""E",,PL,1
+NPE,Nusa Penida (Toyapakeh) ,51.05,Bali,-8.676697,115.487793,"115°29'16""N","115°29'16""E",,PR,1
+MOF,Maumere/ Lorens Say ,53.07,Nusa Tenggara Timur,-8.614265,122.218668,"122°13'7""N","122°13'7""E",,PP,1
+KMD,Komodo  ,53.15,Nusa Tenggara Timur,-8.572083,119.502197,"119°30'8""N","119°30'8""E",,PL,1
+SAP,Sape   ,52.06,Nusa Tenggara Barat,-8.567993,119.018616,"119°1'7""N","119°1'7""E",,PR,1
+WRG,Wuring   ,53.07,Nusa Tenggara Timur,-8.558716,122.162842,"122°9'46""N","122°9'46""E",,PL,1
+KEM,Kempo   ,52.05,Nusa Tenggara Barat,-8.555969,118.219788,"118°13'11""N","118°13'11""E",,PL,1
+WDO,Wulandoni   ,53.13,Nusa Tenggara Timur,-8.536072,123.448792,"123°26'56""N","123°26'56""E",,PL,1
+PBI,Padang Bai  ,51.07,Bali,-8.5314,115.5096,"115°30'35""N","115°30'35""E",,PL,0
+MOT,Marapokot   ,53.16,Nusa Tenggara Timur,-8.515381,121.32782,"121°19'40""N","121°19'40""E",,PR,1
+LKO,Labuan Amuk/ Tanahampo  ,51.07,Bali,-8.508301,115.518982,"115°31'8""N","115°31'8""E",,PP,1
+MUE,Maurole   ,53.08,Nusa Tenggara Timur,-8.50647,121.811218,"121°48'40""N","121°48'40""E",,PL,1
+LLO,Labuhan Lombok ,52.03,Nusa Tenggara Barat,-8.499817,116.672424,"116°40'21""N","116°40'21""E",,PP,1
+LBO,Labuan Bajo ,53.15,Nusa Tenggara Timur,-8.494202,119.876038,"119°52'34""N","119°52'34""E",,PP,1
+MKQ,Merauke   ,93.01,Papua,-8.478211,140.390015,"140°23'24""N","140°23'24""E",,PU,1
+BAD,Badas   ,52.04,Nusa Tenggara Barat,-8.462644,117.372747,"117°22'22""N","117°22'22""E",,PP,1
+BMU,Bima   ,52.06,Nusa Tenggara Barat,-8.44751,118.712219,"118°42'44""N","118°42'44""E",,PP,1
+ILT,Lamakera  ,53.06,Nusa Tenggara Timur,-8.43158,123.164612,"123°9'53""N","123°9'53""E",,PL,1
+MEN,Pemenang  ,52.08,Nusa Tenggara Barat,-8.393311,116.099426,"116°5'58""N","116°5'58""E",,PR,1
+WAM,Terong/Waiwerang ,53.06,Nusa Tenggara Timur,-8.390869,123.131409,"123°7'53""N","123°7'53""E",,PL,1
+LWE,Lewoleba   ,53.13,Nusa Tenggara Timur,-8.3703,123.404602,"123°24'17""N","123°24'17""E",,PP,1
+BAA,Baranusa   ,53.05,Nusa Tenggara Timur,-8.36261,124.096436,"124°5'47""N","124°5'47""E",,PR,1
+ITK,Tobilota  ,53.06,Nusa Tenggara Timur,-8.356567,123.004395,"123°0'16""N","123°0'16""E",,PR,1
+LKA,Larantuka  ,53.06,Nusa Tenggara Timur,-8.342163,122.990418,"122°59'26""N","122°59'26""E",,PP,1
+POA,Pota  ,53.19,Nusa Tenggara Timur,-8.33807,120.718,"120°43'5""N","120°43'5""E",,PL,0
+PAE,Palue   ,53.07,Nusa Tenggara Timur,-8.306702,121.736023,"121°44'10""N","121°44'10""E",,PL,1
+WWR,Waiwuring  ,53.06,Nusa Tenggara Timur,-8.296692,123.30542,"123°18'20""N","123°18'20""E",,PL,1
+MRG,Maritaing   ,53.05,Nusa Tenggara Timur,-8.285584,125.128601,"125°7'43""N","125°7'43""E",,PL,1
+REO,Reo   ,53.1,Nusa Tenggara Timur,-8.284485,120.453186,"120°27'11""N","120°27'11""E",,PP,1
+WWN,Waiwadan  ,53.06,Nusa Tenggara Timur,-8.273987,123.092041,"123°5'31""N","123°5'31""E",,PL,1
+MOU,Moru   ,53.05,Nusa Tenggara Timur,-8.256592,124.507996,"124°30'29""N","124°30'29""E",,PR,1
+PCI,Pacitan   ,35.01,Jawa Timur,-8.226355,111.074386,"111°4'28""N","111°4'28""E",,PP,1
+CRI,Carik  ,52.08,Nusa Tenggara Barat,-8.22242,116.4261,"116°25'34""N","116°25'34""E",,PR,0
+KBH,Kalabahi   ,53.05,Nusa Tenggara Timur,-8.219666,124.516235,"124°30'58""N","124°30'58""E",,PR,1
+CLI,Calabai   ,52.05,Nusa Tenggara Barat,-8.2146,117.710022,"117°42'36""N","117°42'36""E",,PL,1
+LOR,Lakor ,81.08,Maluku,-8.21167,128.151001,"128°9'4""N","128°9'4""E",,PL,1
+BWB,Banyu Wangi/ Boom,35.1,Jawa Timur,-8.201965,114.385986,"114°23'10""N","114°23'10""E",,PR,1
+BRG,Balauring   ,53.13,Nusa Tenggara Timur,-8.194092,123.824219,"123°49'27""N","123°49'27""E",,PL,1
+MHE,Mahaleta ,81.08,Maluku,-8.18935,128.934,"128°56'2""N","128°56'2""E",,PL,0
+CEB,Celukan Bawang  ,51.08,Bali,-8.188294,114.831787,"114°49'54""N","114°49'54""E",,PP,1
+LEI,Leti ,81.08,Maluku,-8.16844,127.6631,"127°39'47""N","127°39'47""E",,PL,0
+SWU,Serwaru ,81.08,Maluku,-8.165711,127.658997,"127°39'32""N","127°39'32""E",,PL,1
+GIL,Gilimanuk   ,51.01,Bali,-8.160872,114.436923,"114°26'13""N","114°26'13""E",,PR,0
+IKL,Ketapang  ,35.1,Jawa Timur,-8.14573,114.4009,"114°24'3""N","114°24'3""E",,PR,0
+IKL,Ketapang   ,61.04,Kalimantan Barat,-8.14573,114.4009,"114°24'3""N","114°24'3""E",,PR,0
+AAT,Adaut ,81.03,Maluku,-8.12884,131.1125,"131°6'45""N","131°6'45""E",,PL,0
+BJU,Tanjung Wangi ,35.1,Jawa Timur,-8.128113,114.399841,"114°23'59""N","114°23'59""E",,PP,1
+MRL,Marsela ,81.08,Maluku,-8.119202,129.877197,"129°52'38""N","129°52'38""E",,PL,1
+KWU,Kaiwatu/Moa ,81.08,Maluku,-8.106567,127.816223,"127°48'58""N","127°48'58""E",,PR,1
+BUG,Buleleng (Sangsit)  ,51.08,Bali,-8.102966,115.088196,"115°5'18""N","115°5'18""E",,PR,1
+WNI,Wonreli ,81.08,Maluku,-8.080078,127.146423,"127°8'47""N","127°8'47""E",,PR,1
+KXR,Kisar ,81.08,Maluku,-8.07986,127.1481,"127°8'53""N","127°8'53""E",,PL,0
+LGN,Lirang ,81.08,Maluku,-8.004578,125.764587,"125°45'53""N","125°45'53""E",,PL,1
+SXK,Saumlaki ,81.03,Maluku,-7.980896,131.291626,"131°17'30""N","131°17'30""E",,PP,1
+IWI,Ilwaki ,81.08,Maluku,-7.931702,126.408814,"126°24'32""N","126°24'32""E",,PR,1
+KOG,Kroing ,81.08,Maluku,-7.89672,129.8569,"129°51'25""N","129°51'25""E",,PL,0
+TPA,Tepa ,81.08,Maluku,-7.869947,129.590666,"129°35'26""N","129°35'26""E",,PR,1
+DAR,Dawelor ,81.08,Maluku,-7.762878,130.031189,"130°1'52""N","130°1'52""E",,PL,1
+UIA,Upisera ,81.08,Maluku,-7.74424,125.9155,"125°54'56""N","125°54'56""E",,PL,0
+ERY,Eray ,81.08,Maluku,-7.742798,125.914795,"125°54'53""N","125°54'53""E",,PL,1
+CXP,Tanjung Intan  ,33.01,Jawa Tengah,-7.731079,108.993591,"108°59'37""N","108°59'37""E",,PP,1
+AEA,Probolinggo   ,35.13,Jawa Timur,-7.715088,113.216187,"113°12'58""N","113°12'58""E",,PP,1
+LKS,Lerokis ,81.08,Maluku,-7.69273,126.2973,"126°17'50""N","126°17'50""E",,PL,0
+PRN,Panarukan   ,35.12,Jawa Timur,-7.68988,113.923035,"113°55'23""N","113°55'23""E",,PR,1
+LRN,Lurang ,81.08,Maluku,-7.68845,126.3296,"126°19'47""N","126°19'47""E",,PL,0
+PDR,Pangandaran/Bojongsalawe   ,32.18,Jawa Barat,-7.684692,108.674805,"108°40'29""N","108°40'29""E",,PL,1
+GEG,Giliketapang   ,35.13,Jawa Timur,-7.680786,113.247803,"113°14'52""N","113°14'52""E",,PL,1
+SRX,Seira ,81.03,Maluku,-7.66006,131.0382,"131°2'18""N","131°2'18""E",,PL,0
+ASG,Arwala/ Sutilarang,81.08,Maluku,-7.657514,126.802685,"126°48'10""N","126°48'10""E",,PL,0
+PAZ,Pasuruan   ,35.14,Jawa Timur,-7.630005,112.91864,"112°55'7""N","112°55'7""E",,PR,1
+KSO,Kalbut   ,35.12,Jawa Timur,-7.624695,114.013001,"114°0'47""N","114°0'47""E",,PP,1
+SAI,Pulau Sailus ,73.1,Sulawesi Selatan,-7.53058,117.428,"117°25'41""N","117°25'41""E",,PL,0
+TKM,Tutu Kembong,81.03,Maluku,-7.50131,131.6512,"131°39'4""N","131°39'4""E",,PL,0
+BOR,Pulau Bonerate  ,73.01,Sulawesi Selatan,-7.358398,121.07782,"121°4'40""N","121°4'40""E",,PL,1
+KLT,Kalatoa   ,73.01,Sulawesi Selatan,-7.337586,121.774597,"121°46'29""N","121°46'29""E",,PL,1
+GNN,Glimandangin   ,35.27,Jawa Timur,-7.30658,113.208191,"113°12'29""N","113°12'29""E",,PL,1
+SNP,Branta   ,35.28,Jawa Timur,-7.22937,113.449219,"113°26'57""N","113°26'57""E",,PR,1
+SAG,Sampang   ,35.27,Jawa Timur,-7.221375,113.297791,"113°17'52""N","113°17'52""E",,PR,1
+ITV,Taddan   ,35.27,Jawa Timur,-7.22088,113.2978,"113°17'52""N","113°17'52""E",,PL,0
+SUB,Tanjung Perak  ,35.78,Jawa Timur,-7.197693,112.726013,"112°43'34""N","112°43'34""E",,PU,1
+ISG,Sapudi   ,35.29,Jawa Timur,-7.170471,114.326599,"114°19'36""N","114°19'36""E",,PR,1
+BXD,Bade   ,93.03,Papua,-7.16919,139.593994,"139°35'38""N","139°35'38""E",,PP,1
+RAS,Pulau Raas  ,35.29,Jawa Timur,-7.154297,114.625183,"114°37'31""N","114°37'31""E",,PL,1
+GRE,Gresik   ,35.25,Jawa Timur,-7.15387,112.663208,"112°39'48""N","112°39'48""E",,PP,1
+LRT,Larat ,81.03,Maluku,-7.15313,131.7138,"131°42'50""N","131°42'50""E",,PL,0
+DMR,Damar ,81.08,Maluku,-7.14361,128.6649,"128°39'54""N","128°39'54""E",,PL,0
+WUR,Wulur ,81.08,Maluku,-7.14284,128.6637,"128°39'49""N","128°39'49""E",,PL,0
+KNN,Kangean   ,35.29,Jawa Timur,-7.103088,115.905212,"115°54'19""N","115°54'19""E",,PR,1
+SPN,Sapeken   ,35.29,Jawa Timur,-7.1026,115.906006,"115°54'22""N","115°54'22""E",,PR,1
+SPK,Pulau Sapuka ,73.1,Sulawesi Selatan,-7.08434,118.1705,"118°10'14""N","118°10'14""E",,PL,1
+IUZ,Ujung Jampea  ,73.01,Sulawesi Selatan,-7.07807,120.7538,"120°45'14""N","120°45'14""E",,PL,1
+PJM,Jampea   ,73.01,Sulawesi Selatan,-7.060791,120.613831,"120°36'50""N","120°36'50""E",,PR,1
+KAT,Kalianget   ,35.29,Jawa Timur,-7.056702,113.944031,"113°56'39""N","113°56'39""E",,PR,1
+PRA,Palabuhanratu   ,32.02,Jawa Barat,-6.990173,106.541992,"106°32'31""N","106°32'31""E",,PR,1
+SRG,Tanjung Emas  ,33.22,Jawa Tengah,-6.940308,110.424011,"110°25'26""N","110°25'26""E",,PU,1
+KDL,Kendal   ,33.24,Jawa Tengah,-6.917969,110.287598,"110°17'15""N","110°17'15""E",,PR,1
+MMR,Moor   ,93.03,Papua,-6.91028,139.2202,"139°13'13""N","139°13'13""E",,PL,0
+PSN,Pasean   ,35.28,Jawa Timur,-6.885376,113.62323,"113°37'24""N","113°37'24""E",,PL,1
+TGU,Telaga Biru  ,35.26,Jawa Timur,-6.885071,113.085632,"113°5'8""N","113°5'8""E",,PR,1
+BNQ,Brondong   ,35.24,Jawa Timur,-6.878113,112.268433,"112°16'6""N","112°16'6""E",,PR,1
+BTG,Batang   ,33.25,Jawa Tengah,-6.877197,109.749023,"109°44'56""N","109°44'56""E",,PR,1
+BRE,Brebes   ,33.29,Jawa Tengah,-6.87385,108.92,"108°55'12""N","108°55'12""E",,PL,1
+TJP,Tanjung Pakis  ,35.24,Jawa Timur,-6.864197,112.411987,"112°24'43""N","112°24'43""E",,PP,1
+PEX,Pekalongan   ,33.26,Jawa Tengah,-6.86014,109.6927,"109°41'34""N","109°41'34""E",,PL,0
+IPL,Pemalang   ,33.27,Jawa Tengah,-6.858093,109.6922,"109°41'32""N","109°41'32""E",,PL,1
+TEG,Tegal   ,33.28,Jawa Tengah,-6.851685,109.137817,"109°8'16""N","109°8'16""E",,PP,1
+KYD,Kayuadi   ,73.01,Sulawesi Selatan,-6.827393,120.791199,"120°47'28""N","120°47'28""E",,PL,1
+JNT,Pulau Jinato  ,73.01,Sulawesi Selatan,-6.748169,120.971985,"120°58'19""N","120°58'19""E",,PL,1
+CBN,Cirebon   ,32.09,Jawa Barat,-6.713318,108.571228,"108°34'16""N","108°34'16""E",,PP,1
+WOO,Wolu  ,81.01,Maluku,-6.70369,131.564,"131°33'50""N","131°33'50""E",,PL,0
+JWA,Juwana   ,33.18,Jawa Tengah,-6.702393,111.154785,"111°9'17""N","111°9'17""E",,PR,1
+RBG,Rembang/Tasik Agung  ,33.17,Jawa Tengah,-6.693115,111.3396,"111°20'23""N","111°20'23""E",,PR,1
+RNE,Rembang/ Sluke   ,33.17,Jawa Tengah,-6.631775,111.543823,"111°32'38""N","111°32'38""E",,PR,1
+JEP,Jepara   ,33.2,Jawa Tengah,-6.578003,110.650391,"110°39'1""N","110°39'1""E",,PR,1
+BYG,Batu Goyang,81.07,Maluku,-6.46141,134.1298,"134°7'47""N","134°7'47""E",,PL,0
+LAJ,Labuhan   ,36.01,Banten,-6.360291,105.821411,"105°49'17""N","105°49'17""E",,PR,1
+IRU,Indramayu/Losarang   ,32.12,Jawa Barat,-6.307617,108.355835,"108°21'21""N","108°21'21""E",,PL,1
+PMN,Pamanukan-Blanakan   ,32.13,Jawa Barat,-6.268677,107.663391,"107°39'48""N","107°39'48""E",,PL,1
+KOB,Kobror  ,81.07,Maluku,-6.262268,134.737,"134°44'13""N","134°44'13""E",,PL,1
+PTM,Patimban   ,32.13,Jawa Barat,-6.243897,107.904602,"107°54'17""N","107°54'17""E",,PU,1
+BTS,Batu Atas ,74.15,Sulawesi Tenggara,-6.203186,122.719238,"122°43'9""N","122°43'9""E",,PL,1
+BYN,Bayun   ,93.04,Papua,-6.18167,138.4018,"138°24'6""N","138°24'6""E",,PL,0
+TEE,Taberfane  ,81.07,Maluku,-6.16924,134.1361,"134°8'10""N","134°8'10""E",,PL,0
+YAR,Selayar/Benteng/Rauf Rahman  ,73.01,Sulawesi Selatan,-6.119385,120.454407,"120°27'16""N","120°27'16""E",,PP,1
+SKE,Sunda Kelapa ,31.72,DKI Jakarta,-6.11731,106.808838,"106°48'32""N","106°48'32""E",,PP,1
+KSB,Kepulauan Seribu,31.01,DKI Jakarta,-6.11438,106.863037,"106°51'47""N","106°51'47""E",,PR,1
+MKA,Muara Angke ,31.72,DKI Jakarta,-6.104492,106.776001,"106°46'34""N","106°46'34""E",,PR,1
+KYU,Kalibaru  ,31.72,DKI Jakarta,-6.1026,106.919006,"106°55'8""N","106°55'8""E",,PR,1
+TPR,Tanjung priok ,31.72,DKI Jakarta,-6.101685,106.888184,"106°53'17""N","106°53'17""E",,PU,1
+MBA,Muara Baru ,31.72,DKI Jakarta,-6.097168,106.799988,"106°47'60""N","106°47'60""E",,PP,1
+IMW,Marunda  ,31.72,DKI Jakarta,-6.095703,106.956238,"106°57'22""N","106°57'22""E",,PP,1
+BNA,Benjina  ,81.07,Maluku,-6.06439,134.2788,"134°16'44""N","134°16'44""E",,PL,0
+KEK,Kresek/ Kronjo   ,36.03,Banten,-6.06066,106.4263,"106°25'35""N","106°25'35""E",,PL,0
+CTS,Cituis   ,36.03,Banten,-6.032776,106.578003,"106°34'41""N","106°34'41""E",,PL,1
+KNU,Karangantu   ,36.04,Banten,-6.030884,106.164429,"106°9'52""N","106°9'52""E",,PR,1
+ALO,Anyer Lor  ,36.04,Banten,-6.026001,105.939819,"105°56'23""N","105°56'23""E",,PR,1
+IBP,Banten   ,36.72,Banten,-6.017273,105.95459,"105°57'17""N","105°57'17""E",,PU,1
+PES,Pulau Sebesi ,18.01,Lampung,-5.935067,105.495153,"105°29'43""N","105°29'43""E",,PL,1
+BGA,Bojonegara   ,36.04,Banten,-5.909973,106.095825,"106°5'45""N","106°5'45""E",,PP,1
+BOK,Binongko   ,74.72,Sulawesi Tenggara,-5.903809,124.036438,"124°2'11""N","124°2'11""E",,PL,1
+KJA,Karimun Jawa  ,33.2,Jawa Tengah,-5.879227,110.431988,"110°25'55""N","110°25'55""E",,PR,1
+BWN,Bawean   ,35.25,Jawa Timur,-5.8526,112.642395,"112°38'33""N","112°38'33""E",,PR,1
+PTT,Pamatata   ,73.01,Sulawesi Selatan,-5.8349,120.517639,"120°31'4""N","120°31'4""E",,PL,1
+LKK,Legon Bajak  ,33.2,Jawa Tengah,-5.788086,110.4776,"110°28'39""N","110°28'39""E",,PR,1
+PTB,Pulau Tabuan   ,18.06,Lampung,-5.76081,104.787,"104°47'13""N","104°47'13""E",,PL,0
+DOB,Dobo  ,81.07,Maluku,-5.75708,134.23822,"134°14'18""N","134°14'18""E",,PP,1
+JEO,Jeneponto/ Bunging,73.04,Sulawesi Selatan,-5.704895,119.708191,"119°42'29""N","119°42'29""E",,PR,1
+ELT,Elat  ,81.02,Maluku,-5.65137,132.9965,"132°59'47""N","132°59'47""E",,PR,0
+TUA,Tual   ,81.72,Maluku,-5.633301,132.742004,"132°44'31""N","132°44'31""E",,PP,1
+SOU,Siompu  ,74.15,Sulawesi Tenggara,-5.626099,122.526611,"122°31'36""N","122°31'36""E",,PL,1
+ITS,Toyando   ,81.72,Maluku,-5.60138,132.3242,"132°19'27""N","132°19'27""E",,PL,0
+SEL,Sebalang  ,18.01,Lampung,-5.58683,105.3833,"105°22'60""N","105°22'60""E",,PR,0
+MSI,Masalembo   ,35.29,Jawa Timur,-5.578369,114.414795,"114°24'53""N","114°24'53""E",,PR,1
+BGN,Bantaeng/ Bonthain  ,73.03,Sulawesi Selatan,-5.571289,120.022583,"120°1'21""N","120°1'21""E",,PR,1
+BBE,Bulukumba/Lappe'e   ,73.02,Sulawesi Selatan,-5.546814,120.216431,"120°12'59""N","120°12'59""E",,PP,1
+AGS,Agats   ,93.04,Papua,-5.538513,138.132019,"138°7'55""N","138°7'55""E",,PP,1
+BBI,Banabungi Pasarwajo  ,74.04,Sulawesi Tenggara,-5.513672,122.844788,"122°50'41""N","122°50'41""E",,PR,1
+KTT,Kadatua  ,74.15,Sulawesi Tenggara,-5.502197,122.526001,"122°31'34""N","122°31'34""E",,PL,1
+TAG,Kota Agung/ Batu Balai ,18.06,Lampung,-5.49939,104.620239,"104°37'13""N","104°37'13""E",,PP,1
+KDA,Kaledupa   ,74.07,Sulawesi Tenggara,-5.495972,123.755432,"123°45'20""N","123°45'20""E",,PL,1
+TBG,Teluk Betung ,18.71,Lampung,-5.487,105.251404,"105°15'5""N","105°15'5""E",,PR,0
+MLS,Marlasi  ,81.07,Maluku,-5.47512,134.6525,"134°39'9""N","134°39'9""E",,PL,0
+PNJ,Panjang  ,18.71,Lampung,-5.466065,105.319397,"105°19'10""N","105°19'10""E",,PU,1
+BBM,Bau-Bau/Murhum   ,74.72,Sulawesi Tenggara,-5.455566,122.605042,"122°36'18""N","122°36'18""E",,PP,1
+GRY,Talaga Raya ,74.14,Sulawesi Tenggara,-5.435974,122.044434,"122°2'40""N","122°2'40""E",,PR,1
+WGK,Wamengkoli  ,74.14,Sulawesi Tenggara,-5.426086,122.60022,"122°36'1""N","122°36'1""E",,PL,1
+MKI,Malakoni/Pulau Enggano ,17.03,Bengkulu,-5.425171,102.37561,"102°22'32""N","102°22'32""E",,PR,1
+LMA,Labuhan Maringgai ,18.07,Lampung,-5.35973,105.8198,"105°49'11""N","105°49'11""E",,PR,0
+WCI,Wanci   ,74.07,Sulawesi Tenggara,-5.338379,123.53479,"123°32'5""N","123°32'5""E",,PP,1
+LNB,Liana Banggai ,74.14,Sulawesi Tenggara,-5.327087,122.378418,"122°22'42""N","122°22'42""E",,PL,1
+GGR,Galesong/Takalar   ,73.01,Sulawesi Selatan,-5.324768,119.356201,"119°21'22""N","119°21'22""E",,PR,1
+KUR,Kur   ,81.72,Maluku,-5.309265,132.022827,"132°1'22""N","132°1'22""E",,PL,1
+SKL,Sikeli   ,74.06,Sulawesi Tenggara,-5.262207,121.794983,"121°47'42""N","121°47'42""E",,PL,1
+LWL,Lawele   ,74.04,Sulawesi Tenggara,-5.204102,122.959839,"122°57'35""N","122°57'35""E",,PL,1
+KKK,Pulau Kalukalukuang ,73.1,Sulawesi Selatan,-5.19459,117.6548,"117°39'17""N","117°39'17""E",,PL,0
+LLL,Lasalimu   ,74.04,Sulawesi Tenggara,-5.178711,123.066223,"123°3'58""N","123°3'58""E",,PL,1
+MAK,Makassar   ,73.71,Sulawesi Selatan,-5.123291,119.408997,"119°24'32""N","119°24'32""E",,PU,1
+SJI,Sinjai/Larea-rea   ,73.07,Sulawesi Selatan,-5.120117,120.299011,"120°17'56""N","120°17'56""E",,PP,1
+KRN,Keramaian   ,35.29,Jawa Timur,-5.03717,114.6026,"114°36'9""N","114°36'9""E",,PL,1
+MMU,Mumugu   ,93.04,Papua,-4.94095,138.4629,"138°27'46""N","138°27'46""E",,PL,0
+MII,Maccini Baji  ,73.02,Sulawesi Selatan,-4.931702,119.515625,"119°30'56""N","119°30'56""E",,PR,1
+IBJ,Bintuhan/Linau   ,17.04,Bengkulu,-4.843201,103.413025,"103°24'47""N","103°24'47""E",,PP,1
+RAQ,Raha   ,74.03,Sulawesi Tenggara,-4.841492,122.731384,"122°43'53""N","122°43'53""E",,PP,1
+AMA,Amamapare   ,94.04,Papua,-4.820496,136.845825,"136°50'45""N","136°50'45""E",,PP,1
+BSO,Biringkasi  ,73.1,Sulawesi Selatan,-4.812683,119.497192,"119°29'50""N","119°29'50""E",,PR,1
+PMK,Pomako   ,94.04,Papua,-4.80249,136.768799,"136°46'8""N","136°46'8""E",,PP,1
+IBG,Boepinang   ,74.06,Sulawesi Tenggara,-4.787476,121.583801,"121°35'2""N","121°35'2""E",,PL,1
+ERE,Ereke  ,74.1,Sulawesi Tenggara,-4.78327,123.1681,"123°10'5""N","123°10'5""E",,PR,1
+KIE,Kasipute   ,74.06,Sulawesi Tenggara,-4.774597,122.064392,"122°3'52""N","122°3'52""E",,PL,1
+MSR,Matasiri   ,63.02,Kalimantan Selatan,-4.77164,115.8392,"115°50'21""N","115°50'21""E",,PL,0
+PAB,Pulau Sabutung ,73.1,Sulawesi Selatan,-4.74853,119.434,"119°26'2""N","119°26'2""E",,PL,0
+MLG,Maligano   ,74.03,Sulawesi Tenggara,-4.721375,122.842835,"122°50'34""N","122°50'34""E",,PL,1
+TEO,Pulau Teor,81.05,Maluku,-4.70347,131.7351,"131°44'6""N","131°44'6""E",,PL,0
+PIO,Pattirobajo   ,73.08,Sulawesi Selatan,-4.658081,120.456604,"120°27'24""N","120°27'24""E",,PR,1
+BAE,Bajoe   ,73.08,Sulawesi Selatan,-4.543396,120.405396,"120°24'19""N","120°24'19""E",,PP,1
+NDA,Banda Besar ,81.01,Maluku,-4.54335,129.9225,"129°55'21""N","129°55'21""E",,PL,0
+NDA,Banda Naira ,81.01,Maluku,-4.511963,129.907593,"129°54'27""N","129°54'27""E",,PR,1
+KSI,Kesui ,81.05,Maluku,-4.49914,131.675,"131°40'30""N","131°40'30""E",,PL,0
+LQR,Lakara  ,74.05,Sulawesi Tenggara,-4.492188,122.28064,"122°16'50""N","122°16'50""E",,PR,1
+GNG,Garongkong   ,73.11,Sulawesi Selatan,-4.378113,119.610413,"119°36'37""N","119°36'37""E",,PP,1
+MBN,Marabatuan   ,63.02,Kalimantan Selatan,-4.36348,115.8103,"115°48'37""N","115°48'37""E",,PL,0
+AGU,Awerange/ Barru,73.11,Sulawesi Selatan,-4.218872,119.61499,"119°36'54""N","119°36'54""E",,PR,1
+PUM,Pomalaa,74.01,Sulawesi Tenggara,-4.172804,121.603592,"121°36'13""N","121°36'13""E",,PR,1
+LPO,Lapuko  ,74.05,Sulawesi Tenggara,-4.157715,122.701416,"122°42'5""N","122°42'5""E",,PL,1
+MSJ,Mesuji/ Lampung,18.11,Lampung,-4.145264,105.751587,"105°45'6""N","105°45'6""E",,PR,1
+IMS,Mesuji/ Oki,16.02,Sumatera Selatan,-4.09224,105.6607,"105°39'39""N","105°39'39""E",,PL,0
+KOL,Kolaka   ,74.01,Sulawesi Tenggara,-4.051697,121.581787,"121°34'54""N","121°34'54""E",,PP,1
+LNA,Langara  ,74.12,Sulawesi Tenggara,-4.021484,122.98999,"122°59'24""N","122°59'24""E",,PR,1
+ARE,Pare-Pare   ,73.72,Sulawesi Selatan,-4.013184,119.620239,"119°37'13""N","119°37'13""E",,PP,1
+PHI,Pelaihari/ Swarangan  ,63.01,Kalimantan Selatan,-4.01197,115.0092,"115°0'33""N","115°0'33""E",,PL,0
+MRP,Mataritip   ,64.03,kalimantan Timur,-4.01197,115.0092,"115°0'33""N","115°0'33""E",,PR,0
+GMR,Gorom ,81.05,Maluku,-3.992676,131.376587,"131°22'36""N","131°22'36""E",,PL,1
+MBG,Marabombang   ,73.15,Sulawesi Selatan,-3.981873,119.614014,"119°36'50""N","119°36'50""E",,PL,1
+KDI,Kendari/Bungkutoko   ,74.71,Sulawesi Tenggara,-3.978088,122.611206,"122°36'40""N","122°36'40""E",,PP,1
+ONR,Kataloka/ Ondor,81.05,Maluku,-3.964966,131.380432,"131°22'50""N","131°22'50""E",,PL,1
+BKS,Pulau Baai  ,17.71,Bengkulu,-3.907898,102.305786,"102°18'21""N","102°18'21""E",,PU,1
+GER,Geser ,81.05,Maluku,-3.87902,130.9021,"130°54'8""N","130°54'8""E",,PR,0
+NRE,Namrole  ,81.09,Maluku,-3.851502,126.731995,"126°43'55""N","126°43'55""E",,PR,1
+ABL,Ambalau  ,81.09,Maluku,-3.82521,127.1783,"127°10'42""N","127°10'42""E",,PL,0
+LQA,Leksula  ,81.09,Maluku,-3.779785,126.509399,"126°30'34""N","126°30'34""E",,PR,1
+SUR,Satui  ,63.1,Kalimantan Selatan,-3.772766,115.411987,"115°24'43""N","115°24'43""E",,PP,1
+IGY,Gudang Arang  ,81.71,Maluku,-3.70198,128.1638,"128°9'50""N","128°9'50""E",,PL,0
+SWA,Siwa/Bangsalae   ,73.13,Sulawesi Selatan,-3.696899,120.424194,"120°25'27""N","120°25'27""E",,PR,1
+AMQ,Ambon   ,81.71,Maluku,-3.694885,128.175598,"128°10'32""N","128°10'32""E",,PU,1
+BUH,Batu Merah  ,81.71,Maluku,-3.676086,128.188599,"128°11'19""N","128°11'19""E",,PL,0
+KNG,Kaimana   ,92.08,Papua Barat,-3.664673,133.759033,"133°45'33""N","133°45'33""E",,PP,1
+SEI,Sebuku   ,63.02,Kalimantan Selatan,-3.630981,116.386597,"116°23'12""N","116°23'12""E",,PP,1
+MLW,Molawe  ,74.09,Sulawesi Tenggara,-3.611572,122.201782,"122°12'6""N","122°12'6""E",,PL,1
+RMG,Hila/Romang ,81.08,Maluku,-3.586792,128.098389,"128°5'54""N","128°5'54""E",,PL,1
+TUH,Tulehu  ,81.01,Maluku,-3.585388,128.328613,"128°19'43""N","128°19'43""E",,PP,1
+RUH,Saparua/ Haria  ,81.01,Maluku,-3.58491,128.6191,"128°37'9""N","128°37'9""E",,PL,0
+MNI,Menuai   ,72.06,Sulawesi Tengah,-3.562988,123.132813,"123°7'58""N","123°7'58""E",,PL,1
+MAJ,Majene   ,76.05,Sulawesi Barat,-3.550476,118.956787,"118°57'24""N","118°57'24""E",,PR,1
+THH,Tuhaha  ,81.01,Maluku,-3.53449,128.689,"128°41'20""N","128°41'20""E",,PL,0
+PEI,Polewali,76.04,Sulawesi Barat,-3.477295,119.446838,"119°26'49""N","119°26'49""E",,PR,1
+IBQ,Bemo ,81.05,Maluku,-3.413391,129.971619,"129°58'18""N","129°58'18""E",,PL,1
+SLU,Sungai Lumpur,16.02,Sumatera Selatan,-3.410278,105.874817,"105°52'29""N","105°52'29""E",,PP,1
+KPE,Kuala Pembuang  ,62.07,Kalimantan Tengah,-3.38678,112.553406,"112°33'12""N","112°33'12""E",,PR,1
+UOA,Belopa   ,73.17,Sulawesi Selatan,-3.384094,120.403442,"120°24'12""N","120°24'12""E",,PL,1
+IBM,Batanjung   ,62.03,Kalimantan Tengah,-3.346497,114.254822,"114°15'17""N","114°15'17""E",,PP,1
+AHI,Amahai  ,81.01,Maluku,-3.3387,128.9205,"128°55'14""N","128°55'14""E",,PP,0
+MNP,Manipa ,81.06,Maluku,-3.338684,127.550842,"127°33'3""N","127°33'3""E",,PL,1
+KTU,Kairatu ,81.06,Maluku,-3.336591,128.341161,"128°20'28""N","128°20'28""E",,PL,1
+TTN,Teluk Sigintung/Seruyan  ,62.07,Kalimantan Tengah,-3.334595,112.380188,"112°22'49""N","112°22'49""E",,PP,1
+BDJ,Banjarmasin   ,63.71,Kalimantan Selatan,-3.328064,114.5578,"114°33'28""N","114°33'28""E",,PU,1
+PLI,Palipi   ,76.05,Sulawesi Barat,-3.31364,118.8492,"118°50'57""N","118°50'57""E",,PR,0
+WUU,Watunohu  ,74.08,Sulawesi Tenggara,-3.303406,120.952637,"120°57'9""N","120°57'9""E",,PL,1
+KBD,Kobisadar  ,81.01,Maluku,-3.29769,128.9517,"128°57'6""N","128°57'6""E",,PL,0
+LUU,Lameluru  ,74.09,Sulawesi Tenggara,-3.295715,122.29419,"122°17'39""N","122°17'39""E",,PR,1
+NAM,Namlea   ,81.04,Maluku,-3.269898,127.087586,"127°5'15""N","127°5'15""E",,PP,1
+PMI,Pegatan Mendawai  ,62.06,Kalimantan Tengah,-3.267212,113.338196,"113°20'18""N","113°20'18""E",,PR,1
+KTB,Kota Baru  ,63.02,Kalimantan Selatan,-3.237,116.225586,"116°13'32""N","116°13'32""E",,PP,1
+NBX,Nabire   ,94.01,Papua,-3.231018,135.581421,"135°34'53""N","135°34'53""E",,PP,1
+FOI,Fogi  ,81.09,Maluku,-3.20824,126.0164,"126°0'59""N","126°0'59""E",,PL,0
+WRS,Waisarisa ,81.06,Maluku,-3.20556,128.2483,"128°14'54""N","128°14'54""E",,PL,0
+ABA,Air Buaya  ,81.04,Maluku,-3.17264,126.227,"126°13'37""N","126°13'37""E",,PL,0
+KRT,Hatu Piru,81.06,Maluku,-3.067078,128.179199,"128°10'45""N","128°10'45""E",,PR,1
+BLA,Bula  ,81.01,Maluku,-3.06348,130.4514,"130°27'5""N","130°27'5""E",,PL,0
+BLA,Bula ,81.05,Maluku,-3.06348,130.4514,"130°27'5""N","130°27'5""E",,PL,0
+IBL,Buano ,81.06,Maluku,-3.011292,127.952026,"127°57'7""N","127°57'7""E",,PL,1
+TJT,Tanjung Batu  ,63.02,Kalimantan Selatan,-3.006862,116.220749,"116°13'15""N","116°13'15""E",,PR,0
+SEG,Serongga   ,63.02,Kalimantan Selatan,-3.006409,116.224426,"116°13'28""N","116°13'28""E",,PR,1
+TBL,Toboali  ,19.03,Kepulauan Bangka Belitung,-3.005371,106.739197,"106°44'21""N","106°44'21""E",,PL,1
+SDI,Sadai  ,19.03,Kepulauan Bangka Belitung,-3.00525,106.738,"106°44'17""N","106°44'17""E",,PP,0
+ING,Boom Baru/ Palembang  ,16.71,Sumatera Selatan,-2.991699,104.760803,"104°45'39""N","104°45'39""E",,PU,1
+POJ,Palopo/ Tanjung Ringgit  ,73.73,Sulawesi Selatan,-2.983887,120.210022,"120°12'36""N","120°12'36""E",,PP,1
+KAY,Kuala Jelay  ,62.08,Kalimantan Tengah,-2.977966,110.741394,"110°44'29""N","110°44'29""E",,PL,1
+FKQ,Fak-fak   ,92.03,Papua Barat,-2.932678,132.309631,"132°18'35""N","132°18'35""E",,PP,1
+SAA,Sukamara   ,62.08,Kalimantan Tengah,-2.928101,111.678223,"111°40'42""N","111°40'42""E",,PP,1
+TBT,Tanjung Batu  ,19.02,Kepulauan Bangka Belitung,-2.886979,107.548897,"107°32'56""N","107°32'56""E",,PP,0
+BLT,Manggar  ,19.06,Kepulauan Bangka Belitung,-2.848206,108.290222,"108°17'25""N","108°17'25""E",,PL,1
+SMA,Samuda  ,62.02,Kalimantan Tengah,-2.84137,112.970032,"112°58'12""N","112°58'12""E",,PL,1
+TNL,Taniwel ,81.06,Maluku,-2.83611,128.515,"128°30'54""N","128°30'54""E",,PL,0
+WBA,Wahai  ,81.01,Maluku,-2.79419,129.49762,"129°29'51""N","129°29'51""E",,PR,1
+SIK,Sikakap  ,13.09,Sumatera Barat,-2.776917,100.215027,"100°12'54""N","100°12'54""E",,PP,1
+PPS,Pulang Pisau ,62.11,Kalimantan Tengah,-2.747498,114.258423,"114°15'30""N","114°15'30""E",,PP,1
+TJQ,Tanjung Pandan  ,19.02,Kepulauan Bangka Belitung,-2.743897,107.632996,"107°37'59""N","107°37'59""E",,PP,1
+KUM,Kumai  ,62.01,Kalimantan Tengah,-2.73999,111.727783,"111°43'40""N","111°43'40""E",,PP,1
+LPI,Lampia  ,73.24,Sulawesi Selatan,-2.73966,121.0691,"121°4'9""N","121°4'9""E",,PP,0
+WSR,Wasior  ,92.07,Papua Barat,-2.7276,134.502991,"134°30'11""N","134°30'11""E",,PP,1
+KOK,Kokas   ,92.03,Papua Barat,-2.698792,132.441589,"132°26'30""N","132°26'30""E",,PR,1
+IMM,Munte/ Luwu Utara,73.22,Sulawesi Selatan,-2.679199,120.602783,"120°36'10""N","120°36'10""E",,PL,1
+MJU,Mamuju   ,76.02,Sulawesi Barat,-2.672974,118.886231,"118°53'10""N","118°53'10""E",,PP,1
+PLB,Pangkalan Bun ,62.01,Kalimantan Tengah,-2.66919,111.636841,"111°38'13""N","111°38'13""E",,PL,1
+MLI,Malili  ,73.24,Sulawesi Selatan,-2.638672,121.088196,"121°5'18""N","121°5'18""E",,PR,1
+DJJ,Jayapura   ,91.03,Papua,-2.545105,140.714233,"140°42'51""N","140°42'51""E",,PU,1
+BNU,Bungku  ,72.06,Sulawesi Tengah,-2.54261,121.972,"121°58'19""N","121°58'19""E",,PR,0
+SMQ,Sampit  ,62.02,Kalimantan Tengah,-2.541382,112.964233,"112°57'51""N","112°57'51""E",,PP,1
+APU,Pasapuat  ,13.09,Sumatera Barat,-2.539795,100.036011,"100°2'10""N","100°2'10""E",,PL,1
+IPZ,Ambo   ,76.02,Sulawesi Barat,-2.538879,117.944031,"117°56'39""N","117°56'39""E",,PL,1
+BEL,Belang-Belang   ,76.02,Sulawesi Barat,-2.475464,119.127441,"119°7'39""N","119°7'39""E",,PP,1
+DPE,Depapre   ,91.03,Papua,-2.461487,140.367798,"140°22'4""N","140°22'4""E",,PP,1
+WDI,Windesi  ,92.07,Papua Barat,-2.421997,134.225403,"134°13'31""N","134°13'31""E",,PL,1
+TGP,Tanjung Api-Api  ,16.07,Sumatera Selatan,-2.36394,104.8148,"104°48'53""N","104°48'53""E",,PP,0
+SGG,Sungsang   ,16.07,Sumatera Selatan,-2.3639,104.9044,"104°54'16""N","104°54'16""E",,PL,0
+RGG,Rangga Ilung ,62.04,Kalimantan Tengah,-2.32067,114.8761,"114°52'34""N","114°52'34""E",,PL,0
+KGG,Karang Agung  ,16.07,Sumatera Selatan,-2.30836,104.6021,"104°36'8""N","104°36'8""E",,PL,0
+KBE,Kereng Bengkirai  ,62.71,Kalimantan Tengah,-2.297589,113.908016,"113°54'29""N","113°54'29""E",,PL,0
+DAI,Dawai   ,91.05,Papua,-2.20447,136.4235,"136°25'25""N","136°25'25""E",,PP,0
+WRN,Waren   ,91.15,Papua,-2.200684,136.422791,"136°25'22""N","136°25'22""E",,PR,1
+SIUB,Siuban  ,13.09,Sumatera Barat,-2.186201,99.731413,"99°43'53""N","99°43'53""E",,PR,0
+IWN,Inawatan  ,96.02,Papua Barat,-2.126709,132.16864,"132°10'7""N","132°10'7""E",,PL,1
+NTI,Bintuni  ,92.06,Papua Barat,-2.110779,133.524841,"133°31'29""N","133°31'29""E",,PP,1
+PGX,Pangkal Balam  ,19.71,Kepulauan Bangka Belitung,-2.098267,106.129822,"106°7'47""N","106°7'47""E",,PP,1
+MUO,Muntok  ,19.05,Kepulauan Bangka Belitung,-2.075806,105.179199,"105°10'45""N","105°10'45""E",,PR,1
+SQN,Sanana  ,82.05,Maluku Utara,-2.056885,125.981995,"125°58'55""N","125°58'55""E",,PR,1
+TPT,Tua Pejat ,13.09,Sumatera Barat,-2.030273,99.59259,"99°35'33""N","99°35'33""E",,PR,1
+MBF,Malbufa  ,82.05,Maluku Utara,-2.021484,125.87561,"125°52'32""N","125°52'32""E",,PL,1
+KAN,Kolonedale  ,72.12,Sulawesi Tengah,-1.929688,121.380798,"121°22'51""N","121°22'51""E",,PP,1
+LSG,Loseng  ,82.08,Maluku Utara,-1.908997,125.017395,"125°1'3""N","125°1'3""E",,PL,1
+ZRI,Serui   ,91.05,Papua,-1.887573,136.245606,"136°14'44""N","136°14'44""E",,PP,1
+ZRM,Sarmi   ,91.1,Papua,-1.858276,138.753235,"138°45'12""N","138°45'12""E",,PP,1
+KDW,Kendawangan   ,61.04,Kalimantan Barat,-1.845215,109.969421,"109°58'10""N","109°58'10""E",,PP,1
+WIA,Waigama  ,96.03,Papua Barat,-1.826599,129.846008,"129°50'46""N","129°50'46""E",,PR,1
+GMM,Manu/Gamunu  ,82.04,Maluku Utara,-1.82428,127.644592,"127°38'41""N","127°38'41""E",,PL,1
+ITM,Tana Paser/Pondong  ,64.01,kalimantan Timur,-1.80699,116.2502,"116°15'1""N","116°15'1""E",,PP,0
+DOF,Dofa  ,82.05,Maluku Utara,-1.806702,125.357605,"125°21'27""N","125°21'27""E",,PL,1
+IMC,Mangoli  ,82.05,Maluku Utara,-1.79806,125.4506,"125°27'2""N","125°27'2""E",,PL,0
+FTA,Falabisahaya  ,82.05,Maluku Utara,-1.789917,125.484009,"125°29'2""N","125°29'2""E",,PP,1
+BUB,Baturube  ,72.12,Sulawesi Tengah,-1.766907,121.798584,"121°47'55""N","121°47'55""E",,PL,1
+ANS,Ansus   ,91.05,Papua,-1.74644,135.8194,"135°49'10""N","135°49'10""E",,PL,0
+TQO,Tikong  ,82.08,Maluku Utara,-1.664795,124.527222,"124°31'38""N","124°31'38""E",,PL,1
+LLD,Kedi/Loloda  ,82.01,Maluku Utara,-1.658081,127.421204,"127°25'16""N","127°25'16""E",,PL,1
+KIA,Karimata   ,61.01,Kalimantan Barat,-1.643677,108.942993,"108°56'35""N","108°56'35""E",,PL,1
+BLU,Belinyu   ,19.01,Kepulauan Bangka Belitung,-1.63019,105.733,"105°43'59""N","105°43'59""E",,PP,0
+IPM,Poom   ,91.05,Papua,-1.6297,135.701599,"135°42'6""N","135°42'6""E",,PL,1
+IME,Muara Siberut/Simailepet ,13.09,Sumatera Barat,-1.598084,99.215027,"99°12'54""N","99°12'54""E",,PR,1
+BGG,Banggai  ,72.07,Sulawesi Tengah,-1.5896,123.49939,"123°29'58""N","123°29'58""E",,PP,1
+TNU,Talang Duku ,15.05,Jambi,-1.53444,103.6599,"103°39'36""N","103°39'36""E",,PP,0
+NAB,Teminabuan  ,96.02,Papua Barat,-1.441589,132.007385,"132°0'27""N","132°0'27""E",,PP,1
+BAT,Bataka  ,82.01,Maluku Utara,-1.415772,127.52179,"127°31'18""N","127°31'18""E",,PL,1
+SET,Seget  ,96.02,Papua Barat,-1.396484,130.970825,"130°58'15""N","130°58'15""E",,PL,1
+PSJ,Poso   ,72.02,Sulawesi Tengah,-1.381104,120.755005,"120°45'18""N","120°45'18""E",,PP,1
+CON,Carocok Painan ,13.01,Sumatera Barat,-1.366272,100.566406,"100°33'59""N","100°33'59""E",,PP,1
+ORA,Oransbari  ,92.11,Papua Barat,-1.352295,134.270996,"134°16'16""N","134°16'16""E",,PL,1
+LWI,Laiwui  ,82.04,Maluku Utara,-1.343079,127.655823,"127°39'21""N","127°39'21""E",,PP,1
+SAL,Salakan  ,72.07,Sulawesi Tengah,-1.308899,123.289185,"123°17'21""N","123°17'21""E",,PR,1
+BPN,Balikpapan   ,64.71,kalimantan Timur,-1.271912,116.806213,"116°48'22""N","116°48'22""E",,PU,1
+DAN,Sukadana   ,61.72,Kalimantan Barat,-1.240418,109.947998,"109°56'53""N","109°56'53""E",,PL,1
+POW,Pulau Owi ,91.06,Papua,-1.24033,136.2252,"136°13'31""N","136°13'31""E",,PL,0
+MLE,Madopolo/Jojame  ,82.04,Maluku Utara,-1.222595,127.652832,"127°39'10""N","127°39'10""E",,PL,1
+JAM,Penajam Paser,64.09,kalimantan Timur,-1.21978,116.7439,"116°44'38""N","116°44'38""E",,PP,1
+TAI,Tanjung Satai ,61.11,Kalimantan Barat,-1.2146,109.688599,"109°41'19""N","109°41'19""E",,PR,1
+TQG,Tangkiang   ,72.01,Sulawesi Tengah,-1.210266,122.630005,"122°37'48""N","122°37'48""E",,PP,1
+BIK,Biak  ,91.06,Papua,-1.185669,136.076233,"136°4'34""N","136°4'34""E",,PP,1
+AYU,Pasang Kayu ,76.01,Sulawesi Barat,-1.136142,119.397292,"119°23'50""N","119°23'50""E",,PR,1
+MSK,Muara Sabak,15.07,Jambi,-1.121582,103.843994,"103°50'38""N","103°50'38""E",,PP,1
+SKB,Sikabaluan/ Pokai ,13.09,Sumatera Barat,-1.116577,99.001404,"99°0'5""N","99°0'5""E",,PL,1
+TMO,Teluk Melano/ Teluk Batang,61.11,Kalimantan Barat,-1.102478,109.962036,"109°57'43""N","109°57'43""E",,PP,1
+NIJ,Nipah Panjang,15.07,Jambi,-1.087097,104.19281,"104°11'34""N","104°11'34""E",,PR,1
+UJB,Ujung Jabung,15.07,Jambi,-1.02553,104.3676,"104°22'3""N","104°22'3""E",,PP,0
+KUJ,Kuala Semboja/Sebulu ,64.02,kalimantan Timur,-1.019898,117.108398,"117°6'30""N","117°6'30""E",,PP,1
+TBY,Teluk Bayur  ,13.71,Sumatera Barat,-0.997192,100.371216,"100°22'16""N","100°22'16""E",,PU,1
+MPG,Muara Padang  ,13.71,Sumatera Barat,-0.965698,100.352783,"100°21'10""N","100°21'10""E",,PR,1
+E,Kuala Mendahara,15.07,Jambi,-0.95459,103.672241,"103°40'20""N","103°40'20""E",,PR,1
+LUW,Luwuk   ,72.01,Sulawesi Tengah,-0.953613,122.796204,"122°47'46""N","122°47'46""E",,PP,1
+IMG,Mantangisi  ,72.09,Sulawesi Tengah,-0.92749,121.697022,"121°41'49""N","121°41'49""E",,PL,1
+MSN,Mansinam   ,92.02,Papua Barat,-0.889099,134.093384,"134°5'36""N","134°5'36""E",,PL,1
+SOQ,Sorong   ,96.01,Papua Barat,-0.877564,131.244812,"131°14'41""N","131°14'41""E",,PU,1
+MKW,Manokwari   ,92.02,Papua Barat,-0.868591,134.075195,"134°4'31""N","134°4'31""E",,PP,1
+APN,Ampana  ,72.09,Sulawesi Tengah,-0.866699,121.583801,"121°35'2""N","121°35'2""E",,PL,1
+IKU,Korido   ,91.19,Papua,-0.838684,135.58844,"135°35'18""N","135°35'18""E",,PR,1
+BUD,Bunta   ,72.01,Sulawesi Tengah,-0.836975,122.162232,"122°9'44""N","122°9'44""E",,PR,1
+KTK,Kuala Tungkal,15.06,Jambi,-0.813294,103.459595,"103°27'35""N","103°27'35""E",,PR,1
+PRI,Parigi  ,72.08,Sulawesi Tengah,-0.811768,120.179199,"120°10'45""N","120°10'45""E",,PR,1
+PGM,Pagimana   ,72.01,Sulawesi Tengah,-0.796814,122.662232,"122°39'44""N","122°39'44""E",,PP,1
+PTL,Pantoloan   ,72.71,Sulawesi Tengah,-0.779602,119.858215,"119°51'30""N","119°51'30""E",,PU,1
+SFI,Sofifi  ,82.72,Maluku Utara,-0.767395,127.596436,"127°35'47""N","127°35'47""E",,PR,1
+TEI,Ternate/ A. Yani   ,82.71,Maluku Utara,-0.761292,127.448425,"127°26'54""N","127°26'54""E",,PU,1
+WYA,Wayaua  ,82.04,Maluku Utara,-0.747376,127.6474,"127°38'51""N","127°38'51""E",,PR,1
+PRJ,Pigaraja  ,82.04,Maluku Utara,-0.745178,127.874634,"127°52'29""N","127°52'29""E",,PL,1
+PPE,Pasipalele  ,82.04,Maluku Utara,-0.73847,128.1318,"128°7'54""N","128°7'54""E",,PL,0
+PTA,Teluk Air/ Padang Tikar,61.12,Kalimantan Barat,-0.737793,109.570618,"109°34'14""N","109°34'14""E",,PL,1
+WNQ,Wani   ,72.03,Sulawesi Tengah,-0.695068,119.84082,"119°50'27""N","119°50'27""E",,PP,1
+SIO,Soasio/Goto  ,82.72,Maluku Utara,-0.690918,127.455994,"127°27'22""N","127°27'22""E",,PR,1
+DNA,Donggala   ,72.03,Sulawesi Tengah,-0.66621,119.744,"119°44'38""N","119°44'38""E",,PP,0
+LBH,Labuha  ,82.04,Maluku Utara,-0.631897,127.480225,"127°28'49""N","127°28'49""E",,PL,1
+BBG,Babang  ,82.04,Maluku Utara,-0.625794,127.604187,"127°36'15""N","127°36'15""E",,PP,1
+SKM,Saukorem   ,92.02,Papua Barat,-0.56452,133.158,"133°9'29""N","133°9'29""E",,PL,0
+ENO,Kuala Enok ,14.04,Riau,-0.526978,103.406616,"103°24'24""N","103°24'24""E",,PP,1
+SSR,Sausapor   ,96.04,Papua Barat,-0.508789,132.080627,"132°4'50""N","132°4'50""E",,PL,1
+SRI,Samarinda   ,64.72,kalimantan Timur,-0.508606,117.155823,"117°9'21""N","117°9'21""E",,PP,1
+DAS,Dabo Singkep  ,21.04,Kepulauan Riau,-0.50217,104.5667,"104°34'0""N","104°34'0""E",,PP,0
+RCI,Rengat/Kuala Cinaku ,14.02,Riau,-0.472473,102.688599,"102°41'19""N","102°41'19""E",,PR,1
+MUG,Moutong  ,72.08,Sulawesi Tengah,-0.47222,120.0644,"120°3'52""N","120°3'52""E",,PL,0
+BSI,Bisui  ,82.04,Maluku Utara,-0.46596,128.0823,"128°4'56""N","128°4'56""E",,PL,0
+SOK,Saonek  ,96.03,Papua Barat,-0.465515,130.78302,"130°46'59""N","130°46'59""E",,PL,1
+WSA,Waisai  ,96.03,Papua Barat,-0.433594,130.804016,"130°48'14""N","130°48'14""E",,PR,1
+IIA,Indari  ,82.04,Maluku Utara,-0.416199,127.325012,"127°19'30""N","127°19'30""E",,PL,1
+YBA,Yaba  ,82.04,Maluku Utara,-0.413696,127.457825,"127°27'28""N","127°27'28""E",,PL,1
+WAK,Wakai  ,72.09,Sulawesi Tengah,-0.410278,121.869019,"121°52'8""N","121°52'8""E",,PL,1
+LEA,Loleo Jaya ,82.04,Maluku Utara,-0.352783,127.268005,"127°16'5""N","127°16'5""E",,PL,1
+SKA,Saketa  ,82.04,Maluku Utara,-0.339294,127.818787,"127°49'8""N","127°49'8""E",,PL,1
+KII,Koititi  ,82.04,Maluku Utara,-0.33057,127.7845,"127°47'4""N","127°47'4""E",,PL,0
+ASO,Pasokan  ,72.09,Sulawesi Tengah,-0.30188,122.343811,"122°20'38""N","122°20'38""E",,PL,1
+TLN,Tembilahan ,14.04,Riau,-0.301392,103.198242,"103°11'54""N","103°11'54""E",,PP,1
+MEE,Malenge  ,72.09,Sulawesi Tengah,-0.272095,122.055603,"122°3'20""N","122°3'20""E",,PL,1
+PPI,Popolii  ,72.09,Sulawesi Tengah,-0.235169,122.198792,"122°11'56""N","122°11'56""E",,PL,1
+KGQ,Kuala Gaung ,14.04,Riau,-0.16919,103.457642,"103°27'28""N","103°27'28""E",,PR,1
+UAA,Una-Una  ,72.09,Sulawesi Tengah,-0.138001,121.654602,"121°39'17""N","121°39'17""E",,PL,1
+PGB,Pulau Gebe ,82.02,Maluku Utara,-0.079712,129.429382,"129°25'46""N","129°25'46""E",,PR,1
+PJN,Pekajang   ,21.04,Kepulauan Riau,-0.07555,104.6306,"104°37'50""N","104°37'50""E",,PR,0
+PTE,Pulau Tello ,12.14,Sumatera Utara,-0.049988,98.285034,"98°17'6""N","98°17'6""E",,PP,1
+PLY,Pulau Kayoa ,82.04,Maluku Utara,-0.038269,127.427795,"127°25'40""N","127°25'40""E",,PL,1
+TSX,Tanjung Santan ,64.02,kalimantan Timur,-0.029968,117.516235,"117°30'58""N","117°30'58""E",,PP,1
+PNK,Pontianak   ,61.71,Kalimantan Barat,-0.01832,109.3351,"109°20'6""N","109°20'6""E",,PU,1
+TFG,Teluk Tapang ,13.12,Sumatera Barat,0,0,"0°0'0""N","0°0'0""E",,PP,0
+KTI,Kertapati   ,16.71,Sumatera Selatan,0,0,"0°0'0""N","0°0'0""E",,PP,0
+MPC,Muko-Muko ,17.06,Bengkulu,0,0,"0°0'0""N","0°0'0""E",,PR,0
+MGA,Menggala  ,18.05,Lampung,0,0,"0°0'0""N","0°0'0""E",,PR,0
+LGI,Lagundi  ,18.01,Lampung,0,0,"0°0'0""N","0°0'0""E",,PL,0
+KND,Kalianda ,18.01,Lampung,0,0,"0°0'0""N","0°0'0""E",,PL,0
+AMP,Ampenan  ,52.01,Nusa Tenggara Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+MEH,Menanga  ,53.06,Nusa Tenggara Timur,0,0,"0°0'0""N","0°0'0""E",,PL,1
+OPI,Oepoli   ,53.01,Nusa Tenggara Timur,0,0,"0°0'0""N","0°0'0""E",,PL,0
+RIG,Riung   ,53.09,Nusa Tenggara Timur,0,0,"0°0'0""N","0°0'0""E",,PL,0
+KNP,Kintap  ,63.01,Kalimantan Selatan,0,0,"0°0'0""N","0°0'0""E",,PP,0
+KWO,Kawio  ,71.03, Sulawesi Utara,0,0,"0°0'0""N","0°0'0""E",,PR,0
+MGR,Mangarang  ,71.04, Sulawesi Utara,0,0,"0°0'0""N","0°0'0""E",,PL,0
+RIS,Rainis  ,71.04, Sulawesi Utara,0,0,"0°0'0""N","0°0'0""E",,PL,0
+BDG,Budong-Budong   ,76.02,Sulawesi Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+ONG,Poopongan   ,76.02,Sulawesi Barat,0,0,"0°0'0""N","0°0'0""E",,PL,1
+ATY,Atsy   ,93.04,Papua,0,0,"0°0'0""N","0°0'0""E",,PL,0
+ASI,Asiki  ,93.02,Papua,0,0,"0°0'0""N","0°0'0""E",,PL,0
+EEI,Eci   ,93.03,Papua,0,0,"0°0'0""N","0°0'0""E",,PL,0
+JGN,Janggerbun   ,91.19,Papua,0,0,"0°0'0""N","0°0'0""E",,PL,0
+RSK,Ransiki  ,92.11,Papua Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+KAE,Kabare  ,96.03,Papua Barat,0,0,"0°0'0""N","0°0'0""E",,PL,1
+PPM,Pam  ,96.03,Papua Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+IPW,Pawi  ,96.03,Papua Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+EGU,Segun  ,96.02,Papua Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+MEA,Mega   ,96.04,Papua Barat,0,0,"0°0'0""N","0°0'0""E",,PL,0
+SYG,Senayang   ,21.04,Kepulauan Riau,0.046342,104.6479,"104°38'52""N","104°38'52""E",,PR,0
+MAF,Mafa  ,82.04,Maluku Utara,0.069214,127.890808,"127°53'27""N","127°53'27""E",,PL,1
+TLA,Tanjung Laut  ,64.74,kalimantan Timur,0.11503,117.492188,"117°29'32""N","117°29'32""E",,PP,1
+LFA,Maidi/Lifofa  ,82.72,Maluku Utara,0.124817,127.700012,"127°42'0""N","127°42'0""E",,PL,1
+BUS,Busua  ,82.04,Maluku Utara,0.129822,127.126587,"127°7'36""N","127°7'36""E",,PL,1
+LTU,Lhok Tuan   ,64.74,kalimantan Timur,0.179993,117.494019,"117°29'38""N","117°29'38""E",,PP,1
+ABS,Air Bangis ,13.12,Sumatera Barat,0.199219,99.380188,"99°22'49""N","99°22'49""E",,PL,1
+SUQ,Sungai Guntung ,14.04,Riau,0.205017,103.510193,"103°30'37""N","103°30'37""E",,PR,1
+MKX,Makian  ,82.04,Maluku Utara,0.279602,127.410828,"127°24'39""N","127°24'39""E",,PL,1
+PTI,Patani  ,82.02,Maluku Utara,0.280396,128.750794,"128°45'3""N","128°45'3""E",,PL,1
+PQR,Pekanbaru   ,14.71,Riau,0.309998,101.585999,"101°35'10""N","101°35'10""E",,PP,1
+ITW,Tepeleo  ,82.02,Maluku Utara,0.319494,128.7483,"128°44'54""N","128°44'54""E",,PL,0
+MPH,Mempawah   ,61.02,Kalimantan Barat,0.321828,108.9687,"108°58'7""N","108°58'7""E",,PR,0
+BNO,Banemo  ,82.02,Maluku Utara,0.322739,128.5552,"128°33'19""N","128°33'19""E",,PL,0
+WED,Weda  ,82.02,Maluku Utara,0.334412,127.882019,"127°52'55""N","127°52'55""E",,PP,1
+ITO,Tinombo  ,72.08,Sulawesi Tengah,0.386841,120.289185,"120°17'21""N","120°17'21""E",,PL,1
+PYH,Gita/ Payahe  ,82.72,Maluku Utara,0.391417,127.6229,"127°37'22""N","127°37'22""E",,PR,0
+PNI,Paniti  ,82.02,Maluku Utara,0.393433,128.681641,"128°40'54""N","128°40'54""E",,PL,1
+SEO,Sepo  ,82.02,Maluku Utara,0.401083,128.3521,"128°21'8""N","128°21'8""E",,PL,0
+ISK,Sagea  ,82.02,Maluku Utara,0.401331,128.3513,"128°21'5""N","128°21'5""E",,PL,0
+TOK,Torosik ,71.11, Sulawesi Utara,0.428217,124.2783,"124°16'42""N","124°16'42""E",,PR,0
+MOI,Moti   ,82.71,Maluku Utara,0.47583,127.420227,"127°25'13""N","127°25'13""E",,PL,1
+BBN,Bumbulan   ,75.04,Gorontalo,0.486023,122.113586,"122°6'49""N","122°6'49""E",,PL,1
+TAA,Tilamuta   ,75.02,Gorontalo,0.507813,122.354797,"122°21'17""N","122°21'17""E",,PR,1
+GTO,Gorontalo   ,75.01,Gorontalo,0.508723,123.063254,"123°3'48""N","123°3'48""E",,PP,1
+SGQ,Sangatta  ,64.08,kalimantan Timur,0.535531,117.644201,"117°38'39""N","117°38'39""E",,PP,1
+TDA,Teluk Dalam ,12.14,Sumatera Utara,0.565613,97.820801,"97°49'15""N","97°49'15""E",,PR,1
+TEK,Parlimbungan Ketek ,12.13,Sumatera Utara,0.629692,99.06976,"99°4'11""N","99°4'11""E",,PP,0
+BCI,Bicoli  ,82.06,Maluku Utara,0.631043,128.437988,"128°26'17""N","128°26'17""E",,PR,1
+INL,Natal/ Sikara-kara,12.13,Sumatera Utara,0.632813,99.070435,"99°4'14""N","99°4'14""E",,PR,0
+TBD,Tanjung Batu Kundur ,21.02,Kepulauan Riau,0.655683,103.4676,"103°28'3""N","103°28'3""E",,PP,0
+OOS,Ogoamas   ,72.03,Sulawesi Tengah,0.741394,120.105042,"120°6'18""N","120°6'18""E",,PR,1
+MLA,Lanoni/ Teluk Malala  ,72.04,Sulawesi Tengah,0.765625,120.551636,"120°33'6""N","120°33'6""E",,PL,1
+BIG,Bastiong   ,82.71,Maluku Utara,0.766358,127.3774,"127°22'39""N","127°22'39""E",,PR,0
+ASM,Mangga Dua  ,82.71,Maluku Utara,0.771453,127.3796,"127°22'47""N","127°22'47""E",,PL,0
+IKD,Kotabunan ,71.1, Sulawesi Utara,0.808757,124.65939,"124°39'34""N","124°39'34""E",,PL,0
+MCO,Tanjung Moco,21.72,Kepulauan Riau,0.833683,104.4991,"104°29'57""N","104°29'57""E",,PP,0
+KWG,Kwandang  ,75.05,Gorontalo,0.851196,122.902588,"122°54'9""N","122°54'9""E",,PR,1
+LUK,Labuhan Uki ,71.01, Sulawesi Utara,0.855408,123.935242,"123°56'7""N","123°56'7""E",,PP,1
+NGG,Anggrek  ,75.05,Gorontalo,0.858445,122.7942,"122°47'39""N","122°47'39""E",,PP,1
+SKJ,Sei Kolak Kijang ,21.01,Kepulauan Riau,0.86045,104.6114,"104°36'41""N","104°36'41""E",,PP,0
+DMK,Dompak  ,21.72,Kepulauan Riau,0.885139,104.4497,"104°26'59""N","104°26'59""E",,PR,0
+BLY,Buli  ,82.06,Maluku Utara,0.888611,128.299988,"128°17'60""N","128°17'60""E",,PR,1
+SDQ,Tanjung Sidupa,71.08, Sulawesi Utara,0.906464,123.1863,"123°11'11""N","123°11'11""E",,PL,0
+IML,Maloy  ,64.08,kalimantan Timur,0.916992,117.986389,"117°59'11""N","117°59'11""E",,PP,1
+SKW,Singkawang   ,61.01,Kalimantan Barat,0.918396,108.983215,"108°58'60""N","108°58'60""E",,PL,1
+TNJ,Tanjung Pinang ,21.72,Kepulauan Riau,0.932222,104.4389,"104°26'20""N","104°26'20""E",,PP,0
+BLG,Belang  ,71.07, Sulawesi Utara,0.940361,124.7858,"124°47'9""N","124°47'9""E",,PR,0
+SRU,Sirombu  ,12.25,Sumatera Utara,0.942383,97.412232,"97°24'44""N","97°24'44""E",,PR,1
+BUT,Tanjung Buton  ,14.08,Riau,0.968018,102.251038,"102°15'4""N","102°15'4""E",,PP,1
+TFE,Tifure   ,82.71,Maluku Utara,0.970339,126.1548,"126°9'17""N","126°9'17""E",,PL,0
+MIG,Manitingting,82.06,Maluku Utara,0.970825,128.515808,"128°30'57""N","128°30'57""E",,PR,1
+TJB,Tanjung Balai Karimun ,21.02,Kepulauan Riau,0.988431,103.4364,"103°26'11""N","103°26'11""E",,PP,0
+SKI,Sangkulirang  ,64.08,kalimantan Timur,0.990418,117.982605,"117°58'57""N","117°58'57""E",,PR,1
+PTK,Parit Rempak  ,21.02,Kepulauan Riau,1.004511,103.3537,"103°21'13""N","103°21'13""E",,PL,0
+MRT,Meranti/ Dorak  ,14.1,Riau,1.014561,102.7467,"102°44'48""N","102°44'48""E",,PR,0
+SLJ,Selat Panjang ,14.1,Riau,1.015808,102.716187,"102°42'58""N","102°42'58""E",,PP,1
+TAN,Tanjung Uban/ Teluk Sasah,21.01,Kepulauan Riau,1.016414,104.2322,"104°13'56""N","104°13'56""E",,PR,0
+FAI,Fani  ,96.03,Papua Barat,1.04419,131.258606,"131°15'31""N","131°15'31""E",,PL,1
+PLH,Paleleh   ,72.05,Sulawesi Tengah,1.046,121.9526,"121°57'9""N","121°57'9""E",,PL,0
+TLI,Toli-toli   ,72.04,Sulawesi Tengah,1.051636,120.800232,"120°48'1""N","120°48'1""E",,PP,1
+MUI,Matui  ,82.01,Maluku Utara,1.053406,127.494995,"127°29'42""N","127°29'42""E",,PR,1
+JIO,Jailolo  ,82.01,Maluku Utara,1.05719,127.469421,"127°28'10""N","127°28'10""E",,PR,1
+MLO,Malarko   ,21.02,Kepulauan Riau,1.110786,103.3793,"103°22'45""N","103°22'45""E",,PP,0
+SME,Subaim/Wasile  ,82.06,Maluku Utara,1.126831,128.131592,"128°7'54""N","128°7'54""E",,PL,1
+SMU,Pulau Sambu  ,21.71,Kepulauan Riau,1.155869,103.9008,"103°54'3""N","103°54'3""E",,PP,0
+BUR,Batam/ Batu Ampar ,21.71,Kepulauan Riau,1.164612,103.999817,"103°59'59""N","103°59'59""E",,PU,1
+KKO,Kao  ,82.03,Maluku Utara,1.168008,127.9024,"127°54'9""N","127°54'9""E",,PL,0
+LEK,Leok   ,72.05,Sulawesi Tengah,1.191406,121.422424,"121°25'21""N","121°25'21""E",,PR,1
+AUG,Amurang  ,71.05, Sulawesi Utara,1.199111,124.5504,"124°33'1""N","124°33'1""E",,PR,0
+TRQ,Tanjung Berakit  ,21.01,Kepulauan Riau,1.203069,104.5473,"104°32'50""N","104°32'50""E",,PP,0
+DOU,Dorosagu  ,82.06,Maluku Utara,1.268982,128.711792,"128°42'42""N","128°42'42""E",,PL,1
+GNS,Gunung Sitoli ,12.78,Sumatera Utara,1.305603,97.609802,"97°36'35""N","97°36'35""E",,PP,1
+SNE,Sintete   ,61.01,Kalimantan Barat,1.362183,109.312012,"109°18'43""N","109°18'43""E",,PP,1
+SEQ,Sungai Pakning  ,14.03,Riau,1.377625,102.147217,"102°8'50""N","102°8'50""E",,PP,1
+DRE,Darume  ,82.03,Maluku Utara,1.392392,127.9984,"127°59'54""N","127°59'54""E",,PL,0
+LHA,Lahewa  ,12.24,Sumatera Utara,1.395813,97.170837,"97°10'15""N","97°10'15""E",,PR,1
+BIT,Bitung   ,71.72, Sulawesi Utara,1.439026,125.194824,"125°11'41""N","125°11'41""E",,PU,1
+MDC,Manado   ,71.71, Sulawesi Utara,1.495789,124.840393,"124°50'25""N","124°50'25""E",,PP,1
+BKI,Bengkalis   ,14.03,Riau,1.561035,102.263428,"102°15'48""N","102°15'48""E",,PP,1
+LUG,Likupang  ,71.06, Sulawesi Utara,1.674439,125.061218,"125°3'40""N","125°3'40""E",,PL,1
+DUM,Dumai   ,14.72,Riau,1.687195,101.457642,"101°27'28""N","101°27'28""E",,PU,1
+MKT,Munte/Likupang Barat ,71.06, Sulawesi Utara,1.693494,125.0132,"125°0'48""N","125°0'48""E",,PR,0
+BPA,Batu Panjang  ,14.03,Riau,1.708191,101.514038,"101°30'51""N","101°30'51""E",,PR,1
+TBO,Tobelo  ,82.03,Maluku Utara,1.718548,128.01602,"128°0'58""N","128°0'58""E",,PP,1
+SLG,Sibolga   ,12.73,Sumatera Utara,1.728027,98.786438,"98°47'11""N","98°47'11""E",,PP,1
+ONN,Oswald Siahaan/Labuhan Angin,12.01,Sumatera Utara,1.752625,98.733398,"98°44'0""N","98°44'0""E",,PR,0
+PAH,Paloh/ Sakura   ,61.01,Kalimantan Barat,1.804414,109.3487,"109°20'55""N","109°20'55""E",,PP,0
+GLX,Galela  ,82.03,Maluku Utara,1.821228,127.846985,"127°50'49""N","127°50'49""E",,PL,1
+BRS,Barus  ,12.01,Sumatera Utara,2.00637,98.398218,"98°23'54""N","98°23'54""E",,PL,1
+DRA,Daruba,82.07,Maluku Utara,2.049681,128.289186,"128°17'21""N","128°17'21""E",,PL,1
+PEL,Pelita  ,82.04,Maluku Utara,2.105353,128.0176,"128°1'3""N","128°1'3""E",,PL,0
+BUM,Batu Enam ,14.07,Riau,2.111036,100.7976,"100°47'51""N","100°47'51""E",,PL,0
+TMD,Tanjung Medang  ,14.03,Riau,2.111633,101.636231,"101°38'10""N","101°38'10""E",,PR,1
+IBS,Biaro  ,71.09, Sulawesi Utara,2.112686,125.3557,"125°21'21""N","125°21'21""E",,PL,0
+TRE,Tanjung Redeb  ,64.03,kalimantan Timur,2.156799,117.494385,"117°29'40""N","117°29'40""E",,PP,1
+IBI,Bagan Siapi-api ,14.07,Riau,2.180603,100.650818,"100°39'3""N","100°39'3""E",,PR,1
+DAA,Dama  ,82.03,Maluku Utara,2.221802,127.795837,"127°47'45""N","127°47'45""E",,PL,1
+SNL,Singkil  ,11.1,Aceh,2.268433,97.812622,"97°48'45""N","97°48'45""E",,PP,1
+WYB,Wayabula  ,82.07,Maluku Utara,2.28717,128.200195,"128°12'1""N","128°12'1""E",,PR,1
+SNI,Sinaboi  ,14.07,Riau,2.292419,100.979431,"100°58'46""N","100°58'46""E",,PR,1
+BYK,Pulau Banyak,11.1,Aceh,2.29541,97.407593,"97°24'27""N","97°24'27""E",,PL,1
+TGL,Tagulandang  ,71.09, Sulawesi Utara,2.339772,125.3809,"125°22'51""N","125°22'51""E",,PR,0
+BEE,Bere - Bere,82.07,Maluku Utara,2.389038,128.666809,"128°40'1""N","128°40'1""E",,PL,1
+PIN,Panipahan  ,14.07,Riau,2.469605,100.346008,"100°20'46""N","100°20'46""E",,PR,1
+SNG,Sinabang   ,11.09,Aceh,2.478638,96.382629,"96°22'57""N","96°22'57""E",,PR,1
+SRS,Serasan   ,21.03,Kepulauan Riau,2.497342,109.0082,"109°0'30""N","109°0'30""E",,PR,0
+TSL,Tanjung Sarang Elang,12.1,Sumatera Utara,2.501404,100.165039,"100°9'54""N","100°9'54""E",,PR,1
+SBE,Sei Berombang ,12.1,Sumatera Utara,2.61499,100.121216,"100°7'16""N","100°7'16""E",,PR,1
+BHS,Buhias  ,71.09, Sulawesi Utara,2.676231,125.4523,"125°27'8""N","125°27'8""E",,PL,0
+SWG,Sawang  ,71.09, Sulawesi Utara,2.680035,125.393648,"125°23'37""N","125°23'37""E",,PL,0
+USI,Ulu Siau ,71.09, Sulawesi Utara,2.732788,125.415833,"125°24'57""N","125°24'57""E",,PL,1
+MKH,Makalehi  ,71.03, Sulawesi Utara,2.734233,125.1619,"125°9'43""N","125°9'43""E",,PL,0
+PEE,Pehe  ,71.09, Sulawesi Utara,2.754556,125.3649,"125°21'54""N","125°21'54""E",,PL,0
+LIG,Teluk Leidong,12.23,Sumatera Utara,2.755615,99.980591,"99°58'50""N","99°58'50""E",,PP,1
+SQQ,Tanjung Selor Kayu/ Kayan I,65.01,Kalimantan Utara,2.836426,117.362,"117°21'43""N","117°21'43""E",,PR,1
+SBO,Sibigo   ,11.09,Aceh,2.839573,95.911932,"95°54'43""N","95°54'43""E",,PL,0
+SBD,Sibadeh  ,11.01,Aceh,2.893189,95.52063,"95°31'14""N","95°31'14""E",,PL,1
+LTG,Letung  ,21.05,Kepulauan Riau,2.988956,105.697,"105°41'49""N","105°41'49""E",,PR,0
+TSH,Tanjung Balai Asahan/ Teluk Nibung,12.09,Sumatera Utara,2.99939,99.81604,"99°48'58""N","99°48'58""E",,PP,1
+MDA,Midai   ,21.03,Kepulauan Riau,3.005333,107.748,"107°44'53""N","107°44'53""E",,PL,0
+SUI,Subi   ,21.03,Kepulauan Riau,3.012903,108.8637,"108°51'49""N","108°51'49""E",,PR,0
+IBX,Bagan Asahan  ,12.09,Sumatera Utara,3.021317,99.85891,"99°51'32""N","99°51'32""E",,PR,0
+PAR,Para  ,71.03, Sulawesi Utara,3.068161,125.5002,"125°30'1""N","125°30'1""E",,PL,0
+KKG,Kahakitang  ,71.03, Sulawesi Utara,3.174764,125.5178,"125°31'4""N","125°31'4""E",,PL,0
+TMP,Tarempa  ,21.05,Kepulauan Riau,3.21759,106.21759,"106°13'3""N","106°13'3""E",,PP,1
+ITF,Tanjung Tiram/ karimun,21.02,Kepulauan Riau,3.225192,99.58316,"99°34'59""N","99°34'59""E",,PR,0
+KLM,Kalama  ,71.03, Sulawesi Utara,3.233183,125.4536,"125°27'13""N","125°27'13""E",,PL,0
+TPK,Tapaktuan  ,11.01,Aceh,3.254028,97.179382,"97°10'46""N","97°10'46""E",,PR,1
+MLD,Tarakan/ Malundung,65.71,Kalimantan Utara,3.283386,117.596008,"117°35'46""N","117°35'46""E",,PU,1
+KTJ,Kuala Tanjung  ,12.19,Sumatera Utara,3.372803,99.469238,"99°28'9""N","99°28'9""E",,PU,1
+NIG,Ngalipaeng  ,71.03, Sulawesi Utara,3.389303,125.6205,"125°37'14""N","125°37'14""E",,PL,0
+PDD,Pangkalan Dodek  ,12.19,Sumatera Utara,3.4104,99.318604,"99°19'7""N","99°19'7""E",,PL,1
+BYQ,Bunyu   ,65.01,Kalimantan Utara,3.461787,117.837006,"117°50'13""N","117°50'13""E",,PP,1
+TBE,Tanjung Beringin ,12.18,Sumatera Utara,3.497009,99.19281,"99°11'34""N","99°11'34""E",,PR,1
+SYP,Sesayap  ,65.04,Kalimantan Utara,3.588506,116.9924,"116°59'33""N","116°59'33""E",,PL,0
+THA,Tahuna  ,71.03, Sulawesi Utara,3.601196,125.501587,"125°30'6""N","125°30'6""E",,PP,1
+PEA,Petta  ,71.03, Sulawesi Utara,3.648144,125.5613,"125°33'41""N","125°33'41""E",,PP,0
+PCE,Pantai Cermin ,12.18,Sumatera Utara,3.648621,98.986206,"98°59'10""N","98°59'10""E",,PR,1
+STA,Selat Lampa  ,21.03,Kepulauan Riau,3.662404,108.132043,"108°7'55""N","108°7'55""E",,PP,1
+SUS,Susoh ,11.12,Aceh,3.720398,96.810242,"96°48'37""N","96°48'37""E",,PR,1
+BKE,Bukide  ,71.03, Sulawesi Utara,3.776511,125.5966,"125°35'48""N","125°35'48""E",,PL,0
+BLW,Belawan   ,12.71,Sumatera Utara,3.784241,98.715393,"98°42'55""N","98°42'55""E",,PU,1
+SDU,Sedanau   ,21.03,Kepulauan Riau,3.796594,108.0385,"108°2'19""N","108°2'19""E",,PL,0
+RNI,Ranai   ,21.03,Kepulauan Riau,3.893428,108.3921,"108°23'32""N","108°23'32""E",,PR,0
+TPU,Tanjung Pura,12.05,Sumatera Utara,3.898438,98.419983,"98°25'12""N","98°25'12""E",,PR,1
+LPG,Lipang  ,71.03, Sulawesi Utara,3.908625,125.3856,"125°23'8""N","125°23'8""E",,PL,0
+LRG,Lirung ,71.04, Sulawesi Utara,3.937988,126.699219,"126°41'57""N","126°41'57""E",,PR,1
+IMH,Melonguane  ,71.04, Sulawesi Utara,3.997558,126.6768,"126°40'36""N","126°40'36""E",,PR,0
+PKR,Pangkalan Brandan  ,12.05,Sumatera Utara,4.026794,98.281799,"98°16'54""N","98°16'54""E",,PP,1
+RAM,Tanjung Tiram  ,12.19,Sumatera Utara,4.053223,98.380005,"98°22'48""N","98°22'48""E",,PR,1
+PUN,Pulau Seluan  ,21.03,Kepulauan Riau,4.117161,107.8545,"107°51'16""N","107°51'16""E",,PL,0
+PKS,Pangkalan Susu  ,12.05,Sumatera Utara,4.120239,98.213989,"98°12'50""N","98°12'50""E",,PP,1
+MEQ,Meulaboh  ,11.05,Aceh,4.127197,96.131836,"96°7'55""N","96°7'55""E",,PP,1
+TTK,Nunukan/ Tunon Taka  ,65.03,Kalimantan Utara,4.145813,117.653198,"117°39'12""N","117°39'12""E",,PP,1
+SNYK,Sungai Nyamuk/ Sebatik  ,65.03,Kalimantan Utara,4.158203,117.903626,"117°54'13""N","117°54'13""E",,PP,1
+PKA,Pulau Kampai  ,12.05,Sumatera Utara,4.187527,98.243549,"98°14'37""N","98°14'37""E",,PL,1
+BEO,Beo  ,71.04, Sulawesi Utara,4.228133,126.7898,"126°47'23""N","126°47'23""E",,PL,0
+KAO,Kawaluso  ,71.03, Sulawesi Utara,4.229903,125.3213,"125°19'17""N","125°19'17""E",,PL,0
+DPN,Dapalan  ,71.04, Sulawesi Utara,4.421553,126.8603,"126°51'37""N","126°51'37""E",,PL,0
+MTT,Matutuang,71.03, Sulawesi Utara,4.432079,125.689773,"125°41'23""N","125°41'23""E",,PL,0
+ESG,Essang  ,71.04, Sulawesi Utara,4.459822,126.7314,"126°43'53""N","126°43'53""E",,PL,0
+KUA,Kuala Langsa  ,11.74,Aceh,4.5224,98.018433,"98°1'6""N","98°1'6""E",,PP,1
+KON,Kakorotan  ,71.04, Sulawesi Utara,4.632725,127.1579,"127°9'28""N","127°9'28""E",,PR,0
+CLG,Calang  ,11.14,Aceh,4.642639,95.583191,"95°34'59""N","95°34'59""E",,PP,1
+IPC,Pulau Laut  ,21.03,Kepulauan Riau,4.675028,107.9512,"107°57'4""N","107°57'4""E",,PR,0
+KTN,Karatung  ,71.04, Sulawesi Utara,4.723806,127.0869,"127°5'13""N","127°5'13""E",,PR,0
+MRE,Marore  ,71.03, Sulawesi Utara,4.729897,125.4776,"125°28'39""N","125°28'39""E",,PR,0
+MAT,Marampit  ,71.04, Sulawesi Utara,4.731617,127.1304,"127°7'49""N","127°7'49""E",,PL,0
+III,Idi  ,11.03,Aceh,4.959229,97.773438,"97°46'24""N","97°46'24""E",,PL,1
+LSW,Lhokseumawe/Kreung Geukeh ,11.08,Aceh,5.240784,97.039429,"97°2'22""N","97°2'22""E",,PP,1
+SII,Sigli   ,11.07,Aceh,5.384361,95.9636,"95°57'49""N","95°57'49""E",,PL,0
+MGS,Miangas  ,71.04, Sulawesi Utara,5.549561,126.5825,"126°34'57""N","126°34'57""E",,PP,0
+MLH,Malahayati  ,11.71,Aceh,5.595215,95.526428,"95°31'35""N","95°31'35""E",,PP,1
+SBG,Sabang   ,11.72,Aceh,5.889587,95.317993,"95°19'5""N","95°19'5""E",,PU,1
